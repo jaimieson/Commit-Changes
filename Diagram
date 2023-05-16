@@ -1,4 +1,7 @@
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+| source.label | source.image | target | target.label |	target.image |	edge
+| ---      | ---       | ---     | ---      | ---       | ---      |
+| Backtick | `         |
+| Pipe     | \|        |
+
+
