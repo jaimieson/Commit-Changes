@@ -3,7 +3,6 @@
 
 
 | source.label | source.image | target | target.label |	target.image |	edge
-
 | ---      | ---       | ---     | ---      | ---       | ---      |
 | Backtick | `         |
 | Pipe     | \|        |
